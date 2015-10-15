@@ -35,7 +35,7 @@ else ->->client
 
 8.add a cron task,*/1 * * * * php /opt/htdocs/lua_queue/php_scripts/cron_queue.php
 
-9. open the index page for testing.
+9.open the index page for testing
 
 
 ##Thanks To:
